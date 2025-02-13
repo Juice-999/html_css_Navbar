@@ -1,6 +1,6 @@
 # html_css_Navbar
 Frontend Practice with html css and javascript navigation bar
-# Navebars
+# Navbars
 sticky-navbar
 horizontal-navbar
 vertical-navbar
